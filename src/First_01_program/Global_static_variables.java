@@ -11,6 +11,7 @@ public static void main(String[] args) {
 	
 	System.out.println(i);
 	System.out.println(S);
+	System.out.println("hiii");
 	System.out.println(o);
 	
 	
